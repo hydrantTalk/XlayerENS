@@ -1,0 +1,7 @@
+node_modules/
+.env
+DeveloperWallet.txt
+cache/
+artifacts/
+typechain-types/
+deployed-address.json
